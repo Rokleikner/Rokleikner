@@ -1,0 +1,7 @@
+- 👋 Hi, I’m leikner
+- 👀 I’m interested in java
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on nothing tbh
+- 📫 How to reach me 
+- 😄 Pronouns:
+- ⚡ Fun fact:
