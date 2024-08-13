@@ -1,6 +1,6 @@
 - 👋 Hi, I’m leikner
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on nothing tbh
 - 📫 How to reach me 
 - 😄 Pronouns:
